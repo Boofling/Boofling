@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Boofling
+- 👀 I’m interested in Information Security and Networking
+- 🌱 I’m currently ursuing a Bachelors in Computer Science
+- 💞️ I’m always seeking out more resources or projects for learning
